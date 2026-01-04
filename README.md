@@ -45,12 +45,29 @@ Zawiera:
 - Build context i cache.
 - Dobre praktyki.
 - Multi-stage builds.
+- Najczęstsze błędy
 
 🎥 YouTube:  
 ➡️ https://youtube.com/abcd3
 
 📦 Repozytoria:
 - https://github.com/JacekLabudda/docker-lab-3
+
+---
+
+### MODUŁ 4 - Networking (Komunikacja między kontenerami)
+**Tematy:**
+- Czym jest Docker Network?
+- Sieć: Bridge.
+- Sieć: Host.
+- Sieć: None.
+- Mapowanie portów.
+
+🎥 YouTube:  
+➡️ https://youtube.com/abcd4
+
+📦 Repozytoria:
+- https://github.com/JacekLabudda/docker-lab-4
 
 ---
 
